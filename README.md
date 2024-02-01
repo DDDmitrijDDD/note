@@ -33,7 +33,7 @@ Notes - это программа для хранения заметок, вып
 
     Для запуска необходимо с помощью файла requirements.txt установить все нужные библиотеки:
 
-    pip install -r requirements.txt
+    python3 -m pip install -r requirements.txt
 
     После запустить main.py, и программа будет запущена
 
